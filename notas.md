@@ -9,3 +9,4 @@ bundle exec jekyll serve
 5- escribir commit, hacer commit (click)
 6- hacer push 
 7- deploy
+
